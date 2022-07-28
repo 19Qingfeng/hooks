@@ -6,7 +6,7 @@
 
 <div align="center">
 
-A high-quality & reliable React Hooks library.
+A high-quality & reliable React Hooks library. by wanghaoyu
 
 [![NPM version][image-1]][1]
 [![NPM downloads][image-2]][2]
